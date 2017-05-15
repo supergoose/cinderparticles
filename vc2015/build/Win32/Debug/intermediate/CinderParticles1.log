@@ -1,5 +1,0 @@
-﻿  CinderParticles1App.cpp
-d:\dev\cpp\cinder\cinderparticles1\src\cinderparticles1app.cpp(67): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-d:\dev\cpp\cinder\cinderparticles1\src\cinderparticles1app.cpp(70): warning C4018: '<': signed/unsigned mismatch
-d:\dev\cpp\cinder\cinderparticles1\src\cinderparticles1app.cpp(160): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  CinderParticles1.vcxproj -> D:\Dev\CPP\Cinder\CinderParticles1\vc2015\build\Win32\Debug\CinderParticles1.exe
